@@ -1,3 +1,5 @@
 
 
 - npm init
+
+- jQuery Installed
